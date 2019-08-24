@@ -1,5 +1,7 @@
 # resume
 ## 简历1.0
+
+[在线简历2018](https://junquan-guo.github.io/resume/)
 ----------------------------------------------------------
 ### git操作<br>
 <img src="https://github.com/Junquan-Guo/resume/blob/master/demonstration/git-01.PNG" height="200" alt="git操作1"/>   <img src="https://github.com/Junquan-Guo/resume/blob/master/demonstration/git-02.PNG" height="200" alt="git操作2"/>   <img src="https://github.com/Junquan-Guo/resume/blob/master/demonstration/git-03.PNG" height="200" alt="git操作3"/>
