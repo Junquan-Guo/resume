@@ -1,0 +1,37 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "----------------------------------------------------------\r ### git操作<br>\r <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/git-01.PNG\" height=\"200\" alt=\"git操作1\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/git-02.PNG\" height=\"200\" alt=\"git操作2\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/git-03.PNG\" height=\"200\" alt=\"git操作3\"/>\r ---------------------------------------------------------\r ### PC演示<br>\r <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-01.PNG\" height=\"200\" alt=\"PC演示1\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-02.PNG\" height=\"200\" alt=\"PC演示2\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-03.PNG\" height=\"200\" alt=\"PC演示3\"/> <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-04.PNG\" height=\"200\" alt=\"PC演示4\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-05.PNG\" height=\"200\" alt=\"PC演示5\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-06.PNG\" height=\"200\" alt=\"PC演示6\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/pc-07.PNG\" height=\"200\" alt=\"PC演示7\"/>\r ---------------------------------------------------------\r ###  Move演示<br>\r <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-1.jpg\" height=\"200\" alt=\"Move演示1\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-2.jpg\" height=\"200\" alt=\"Move演示2\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-3.jpg\" height=\"200\" alt=\"Move演示3\"/> <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-4.jpg\" height=\"200\" alt=\"Move演示4\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-5.jpg\" height=\"200\" alt=\"Move演示5\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-6.jpg\" height=\"200\" alt=\"Move演示6\"/>   <img src=\"https://github.com/Junquan-Guo/resume/blob/master/demonstration/move-7.jpg\" height=\"200\" alt=\"Move演示7\"/>\r ---------------------------------------------------------",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "open": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junquan-Guo/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junquan-Guo/resume/issues"
+  },
+  "homepage": "https://github.com/Junquan-Guo/resume#readme"
+}
